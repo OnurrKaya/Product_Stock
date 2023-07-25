@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\database",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\layouts",
+    "\\resources\\views\\products",
+    "\\resources\\views\\stocks",
+    "\\storage",
+    "\\storage\\logs"
+  ],
+  "PreviewInSolutionExplorer": false
+}
